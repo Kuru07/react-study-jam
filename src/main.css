@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Madeia';
+    src: url('/assets_s3/assets/fonts/Madeia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Ghanes';
+    src: url('/assets_s3/assets/fonts/Ghanes.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
